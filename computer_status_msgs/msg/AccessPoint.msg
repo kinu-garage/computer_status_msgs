@@ -1,4 +1,4 @@
-# This message communicates the state of the PR2's wifi access point.
+# This message communicates the state of a wifi access point.
 Header header
 string essid
 string macaddr
